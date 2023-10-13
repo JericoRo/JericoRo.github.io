@@ -44,7 +44,7 @@ Jerico Romero
             <p><strong>Materia:</strong> Aplicaciones Web</p>
             <p><strong>Fecha:</strong> 13/10/2023</p>
         </div>
-        <p>¡Hola! Bienvenido a mi página personal. Soy [Jericó Romero Machuca]</p>
+        <p>¡Hola! Bienvenido a mi página personal.</p>
     </div>
 </body>
 </html>
