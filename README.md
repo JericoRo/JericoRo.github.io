@@ -35,7 +35,7 @@
 <body>
     <div class="container">
         <h1>Jericó Romero Machuca</h1>
-        <img class="profile-img" src="file:///C:/Users/USUARIO/Downloads/WhatsApp%20Image%202023-10-12%20at%2017.41.38-fotor-20231012174520.jpg" alt="Mi Foto">
+        <img class="profile-img" src="WhatsApp%20Image%202023-10-12%20at%2017.41.38-fotor-20231012174520.jpg" alt="Mi Foto">
         <div class="info">
             <p><strong>Fecha de Nacimiento:</strong> 14/02/2001</p>
             <p><strong>Curso:</strong> SIN-S-VE-4-3</p>
